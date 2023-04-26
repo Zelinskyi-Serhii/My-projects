@@ -1,4 +1,4 @@
-# Here you can find more detailed information about my projects and the technologies I work with
+# Here you can find more detailed information about my projects and the main technologies I work with
 
 ##  My technology stack
 
@@ -9,13 +9,9 @@
 ###### -HTML
 ###### -CSS
 ###### -Sass
-###### -Figma
 ###### -SQL
-###### -Git
 ###### -REST APIs
 ###### -Fetch
-###### -Bulma
-###### -Bootstrap
 ###### -BEM
 ###### -OOP
 
