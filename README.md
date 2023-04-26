@@ -23,7 +23,7 @@
 
 ### Bose - a pixel-perfect responsive landing page.
 #### (HTML, CSS, Sass, BEM, JavaScript)
-##### [GitHub Code](https://zelinskyi-serhii.github.io/landing_page_Bose/)
+##### [DEMO LINK](https://zelinskyi-serhii.github.io/landing_page_Bose/)
 ##### [GitHub Code](https://github.com/Zelinskyi-Serhii/landing_page_Bose/commit/6f75d923a67efa1f2a1f6074ad98605c2cecfe68)
 
 ### Todo App - an interactive website created using functional components, hooks, and fetch.
