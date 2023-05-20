@@ -27,7 +27,9 @@
 ##### [DEMO LINK](https://zelinskyi-serhii.github.io/Todo-application/)
 ##### [GitHub Code](https://github.com/Zelinskyi-Serhii/Todo-application/commit/2606d95cb768831f5d5285eca71356982af0a3aa)
 
-
-
-
+### Nice Gadgets web application - This application showcases a collection of cool and innovative gadgets for tech enthusiasts. It provides a user-friendly interface for browsing and exploring various gadgets, along with detailed information and features for each product.
+#### (JavaScript, React, Node.js, Express.js HTML, SCSS, REST API, PostgreSQL, Netlify)
+##### [DEMO LINK](https://nice-gadgets-stack-masters.netlify.app/)
+##### [GitHub Code FRONTEND](https://github.com/fe-jan23-StackMasters/product_catalog_front)
+##### [GitHub Code BACKTEND](https://github.com/fe-jan23-StackMasters/product_catalog_api)
 
