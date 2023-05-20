@@ -31,5 +31,5 @@
 #### (JavaScript, React, Node.js, Express.js HTML, SCSS, REST API, PostgreSQL, Netlify)
 ##### [DEMO LINK](https://nice-gadgets-stack-masters.netlify.app/)
 ##### [GitHub Code FRONTEND](https://github.com/fe-jan23-StackMasters/product_catalog_front)
-##### [GitHub Code BACKTEND](https://github.com/fe-jan23-StackMasters/product_catalog_api)
+##### [GitHub Code BACKEND](https://github.com/fe-jan23-StackMasters/product_catalog_api)
 
