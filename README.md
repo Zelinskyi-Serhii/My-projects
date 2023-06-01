@@ -2,7 +2,7 @@
 
 ##  My technology stack
 
-###### -JavaScript, TypeScript, React, NodeJs, HTML/CSS, Sass, SQL, REST APIs, Fetch, BEM, OOP
+#### -JavaScript, TypeScript, React, NodeJs, HTML/CSS, Sass, SQL, REST APIs, Fetch, BEM, OOP
 
 ## My-projects
 
