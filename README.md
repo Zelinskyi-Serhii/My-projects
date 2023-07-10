@@ -2,9 +2,15 @@
 
 ##  My technology stack
 
-#### -JavaScript, TypeScript, React, NodeJs, HTML/CSS, Sass, SQL, REST APIs, Fetch, BEM, OOP
+#### -JavaScript, TypeScript, React, NodeJs, Redux, HTML/CSS, Sass, SQL, REST APIs, Fetch, BEM
 
 ## My-projects
+
+### Git Search - This program allows you to get detailed information in the form of statistics about the user's Git Hub.
+#### (React.js, Node.js, TypeScript, BEM, SCSS, REST API, JavaScript, Express.js, Sequelize)
+##### [DEMO LINK](https://github-search-user-by-nickname.netlify.app/)
+##### [GitHub Code FRONTEND](https://github.com/Zelinskyi-Serhii/gitSearch-front)
+##### [GitHub Code BACKEND](https://github.com/Zelinskyi-Serhii/gitSearch-back)
 
 ### Bose - a pixel-perfect responsive landing page.
 #### (HTML, CSS, Sass, BEM, JavaScript)
